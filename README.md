@@ -6,7 +6,7 @@ This project showcases five famous historical places in Herat, Afghanistan. User
 
 ## Live Demo
 
-[View Live Demo](YOUR-LIVE-DEMO-LINK)
+[View Live Demo](https://pashtanahabib.github.io/Photo-Gallery/)
 
 ## Technologies Used
 
